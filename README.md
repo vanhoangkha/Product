@@ -1,4 +1,4 @@
-# 🛍️ Product
+# Product
 
 Product management web application.
 
